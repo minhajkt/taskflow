@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6", // or whatever target you need
+    "module": "commonjs",
+    "outDir": "./dist", // where to put compiled files
+    "strict": true, // enable all strict type-checking options
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"], // assuming your .ts files are in a src directory
+  "exclude": ["node_modules"]
+}
