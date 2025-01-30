@@ -7,4 +7,3 @@ A simple To-Do List web application built with **TypeScript**. This app allows u
 - **Edit Tasks**: Edit existing tasks directly in the list.
 - **Delete Tasks**: Remove tasks from the list.
 - **Strike-through**: Mark tasks as completed by checking them off (strike-through effect).
-- 
